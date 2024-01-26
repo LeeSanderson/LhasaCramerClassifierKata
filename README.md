@@ -26,3 +26,7 @@ A functional group may be:
 Given a chemical, determine the risk to human safety by implementing the following decision tree:
 
 ![Image describing the work flow we will build as part of this kata](workflow.jpg)
+
+## Solutions
+
+A `C#` solution is included in this repository.
