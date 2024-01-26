@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CramerClassification", "CramerClassification\CramerClassification.csproj", "{2BD87C7E-9730-4609-9A65-19E98DE5FDBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CramerClassification", "CramerClassification\CramerClassification.csproj", "{2BD87C7E-9730-4609-9A65-19E98DE5FDBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CramerClassifier.Tests", "CramerClassifier.Tests\CramerClassifier.Tests.csproj", "{7DD82524-86B1-4438-BE30-C78D0596160B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CramerClassifier.Tests", "CramerClassifier.Tests\CramerClassifier.Tests.csproj", "{7DD82524-86B1-4438-BE30-C78D0596160B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26D2184B-7DDB-42C4-A363-C01BABC5EF5E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
