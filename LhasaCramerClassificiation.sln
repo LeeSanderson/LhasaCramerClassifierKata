@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CramerClassification", "CramerClassification\CramerClassification.csproj", "{2BD87C7E-9730-4609-9A65-19E98DE5FDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CramerClassifier.Tests", "CramerClassifier.Tests\CramerClassifier.Tests.csproj", "{7DD82524-86B1-4438-BE30-C78D0596160B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD87C7E-9730-4609-9A65-19E98DE5FDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD87C7E-9730-4609-9A65-19E98DE5FDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD87C7E-9730-4609-9A65-19E98DE5FDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD87C7E-9730-4609-9A65-19E98DE5FDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD82524-86B1-4438-BE30-C78D0596160B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD82524-86B1-4438-BE30-C78D0596160B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD82524-86B1-4438-BE30-C78D0596160B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD82524-86B1-4438-BE30-C78D0596160B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0FF807D-9110-4EF2-916A-08089027AFEE}
+	EndGlobalSection
+EndGlobal
